@@ -1,0 +1,134 @@
+img{
+    height: 50px;
+    
+}
+.bg-dark {
+    background-color:#222f3e;
+}
+.All-sell{
+    background-color: #364759;
+    color: white;
+}
+
+.Shopp-all-title {
+    text-align: center;
+    padding: 0,5rem;
+    background-color: orange;
+    margin-bottom: 2rem;
+    display: block;
+    padding: 1rem;
+    margin-top: 2rem;
+    
+}
+#bg-image {
+    background-image: url(./images/bg-image.png);
+    width: 100%;
+    padding: 3rem 0;
+    height: 100px;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+.imgpic{
+    width: 304px;
+    height: 379px;
+    margin: 1rem;
+    border-radius: 20px;
+}
+.titlex2{
+    font-size: 1.3rem;
+    text-align: left;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+.second2 {
+    color: rgb(100, 700, 350);
+}
+.imgpic {
+    background-color: white ;
+}
+
+.imagegiftg{
+    margin-top: 3rem;
+    display: block;
+    text-align: center;
+    height: 500px;
+}
+.image9 {
+    height: 400px;
+    padding-top: 66px;
+
+}
+.play1{
+    text-align: center;
+    margin-right: 0rem;
+    margin-left: 0rem;
+    
+    
+
+}
+.play2{
+    margin-right: 40px;
+    text-align: center;
+    
+}
+.titlebottom{
+    text-align: center;
+    margin-top: 0rem;
+    padding-bottom: 90px;
+}
+.image10 {
+    height: 400px;
+    margin-left: 6rem;
+}
+.last-title{
+    text-align: center;
+}
+
+.Accessories{
+    margin-right: 0rem;
+    color: green;
+    font-weight: bolder;
+}
+#back-to-top {
+    padding: 1rem;
+    text-align: center;
+    color: white;
+}
+.bg-light-dark {
+    background-color: #364759;
+    
+}
+.last-logo {
+    background-color: #222f3e;
+    text-align: center;
+    padding: 3rem;
+}
+.cards-row {
+    width: 100%;
+    margin-top: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1rem;
+   display: block;
+}
+.card-squad {
+    width: 328px;
+    height: 420px;
+    display: inline-block;
+}
+.bg-white  {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+.mr-1{
+    margin-right: 1rem;
+    
+}
